@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "Habitat Scout",
+  "shortDesc": "Don't miss out on Habitat Scout: your app to make sense out of the woods.",
+  "url": "https://habitatscout.com",
+  "authorEmail": "drew.meulemans@gmail.com",
+  "authorHandle": "",
+  "authorName": "Drew Meulemans",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "HTTPS://BIT.LY/2KTRI1B",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
