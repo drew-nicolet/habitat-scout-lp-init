@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "text": "What",
-      "url": "#what",
+      "text": "About",
+      "url": "#about",
       "external": false
     },
     {
-      "text": "When",
-      "url": "#when",
+      "text": "Launch Info",
+      "url": "#launch",
       "external": false
     },
     {
