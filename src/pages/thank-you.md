@@ -1,6 +1,7 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Thank You For Signing Up
+permalink: /thank-you/index.html
 ---
+We're busy building away, and we'll be in touch once the app is launched.
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+We very much appreciate your interest in Habitat Scout. Have a great day!
