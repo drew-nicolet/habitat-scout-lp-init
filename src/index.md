@@ -7,7 +7,8 @@ postsHeading: More Posts
 archiveButtonText: Get More Posts
 socialImage: ""
 ---
+Habitat Scout is the app that's going to change the way you think about the woods around you.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+Here's how: we'll show you the best spots to find hundreds of species of trees across the continental United States. Just tell us which tree you're after, and our app will show you exactly where to look in your local forests.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+And don't worry about lugging your laptop into the woods, our mobile app will turn your smartphone into the tool of your dreams.
